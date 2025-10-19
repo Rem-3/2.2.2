@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Rem
+Build-Jdk: 17.0.2
+Class-Path: spring-webmvc-5.3.14.jar spring-aop-5.3.14.jar spring-beans-
+ 5.3.14.jar spring-context-5.3.14.jar spring-core-5.3.14.jar spring-jcl-
+ 5.3.14.jar spring-expression-5.3.14.jar spring-web-5.3.14.jar javax.ser
+ vlet-api-4.0.1.jar thymeleaf-spring5-3.0.14.RELEASE.jar thymeleaf-3.0.1
+ 4.RELEASE.jar attoparser-2.0.5.RELEASE.jar unbescape-1.1.6.RELEASE.jar 
+ slf4j-api-1.7.25.jar
+
